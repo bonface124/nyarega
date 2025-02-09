@@ -1,1 +1,1 @@
-# nyarega
+# nyarega.github.ai
